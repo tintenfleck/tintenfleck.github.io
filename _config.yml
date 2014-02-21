@@ -13,7 +13,8 @@ description: Tintenfleck Blog
 # Themes from http://bootswatch.com/
 # amelia, cerulean, cosmo, cyborg, flatly, journal, readable, simplex, slate, spacelab, united, yeti
 #
-bootswatchtheme: "amelia"
+# bootswatchtheme: "amelia"
+bootswatchtheme: "journal"
 
 safe: true
 lsi: false

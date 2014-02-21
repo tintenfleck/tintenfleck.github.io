@@ -20,7 +20,4 @@ Hier erhaltet ihr Tips, Vorschläge, Inspirationen und Ideen für ein Buch, sowi
 ich selbst beim Schreiben gesammelt habe. Natürlich werde ich euch auch von den Fehlern erzählen,
 die ich während des Schreibens gemacht habe. Ich hoffe es gefällt euch. Möge die Tinte mit euch sein,
 
-eure Mala.^.^  <i class="fa fa-book"></i> 
-
-<img src="{{site.url}}/img/fueller.jpg"></img>
-<img src="{{site.url}}/img/heft.jpg"></img>
+Eure Mala.^.^  <i class="fa fa-book"></i> 

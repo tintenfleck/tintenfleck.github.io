@@ -22,3 +22,5 @@ die ich während des Schreibens gemacht habe. Ich hoffe es gefällt euch. Möge 
 
 eure Mala.^.^  <i class="fa fa-book"></i> 
 
+<img src="{{site.url}}/img/fueller.jpg"></img>
+<img src="{{site.url}}/img/heft.jpg"></img>

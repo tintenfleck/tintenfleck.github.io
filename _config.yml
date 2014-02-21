@@ -22,11 +22,3 @@ markdown: redcarpet
 markdown_ext:  md,markdown
 pygments: true
 set :markdown, fenced_code_blocks: true
-
-# Pagination
-paginate: 2
-relative_permalinks: true
-blogurl:       "/blog"
-blogpageprefix: "/blog/page"
-paginate_path: "/blog/page:num"
-permalink:     "/blog/:year/:month/:day/:title/"

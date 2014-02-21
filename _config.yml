@@ -1,0 +1,32 @@
+# Site Configs
+
+# url: http://blog.geuer-pollmann.de/
+url: ""
+
+
+name: Tintenfleck
+author: Tintenfleck
+sitetitle: Tintenfleck Blog
+description: Tintenfleck Blog
+
+# 
+# Themes from http://bootswatch.com/
+# amelia, cerulean, cosmo, cyborg, flatly, journal, readable, simplex, slate, spacelab, united, yeti
+#
+bootswatchtheme: "amelia"
+
+safe: true
+lsi: false
+encoding: UTF-8
+markdown: redcarpet
+markdown_ext:  md,markdown
+pygments: true
+set :markdown, fenced_code_blocks: true
+
+# Pagination
+paginate: 2
+relative_permalinks: true
+blogurl:       "/blog"
+blogpageprefix: "/blog/page"
+paginate_path: "/blog/page:num"
+permalink:     "/blog/:year/:month/:day/:title/"

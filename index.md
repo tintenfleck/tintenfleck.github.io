@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tintenfleck"
+title: "Willkommen"
 ---
 
 <!--
@@ -12,8 +12,6 @@ title: "Tintenfleck"
 http://fontawesome.io/icons/
 
 -->
-
-# Willkommen
 
 Hi, 
 

@@ -3,4 +3,6 @@ layout: default
 title: "Tintenfleck"
 ---
 
-# Hallo 
+# Willkommen
+
+Auf dieser Seite entstehen Texte für Auroren. 

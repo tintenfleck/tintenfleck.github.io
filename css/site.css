@@ -1,4 +1,9 @@
 /* Needed to shift stuff down, because of the <nav> bar */
 body {
-  margin-top: 30px;
+	margin-top: 30px;
+	background-image: url(/img/background.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 }
+html { background: transparent }
+html, body { height: 100%; }
